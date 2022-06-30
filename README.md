@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rogjesus
-- 👀 I’m interested in fazer a diferença no mundo da tecnologia 
+- 👀 I’m interested in fazer a diferença no mundo da tecnologia.principalmente em trabalho.
 - 🌱 I’m currently learning análise e desenvolvimento de sistemas 
+
 - 💞️ I’m looking to collaborate on novos projetos e somar ideias assim apreender e se desafiar com o novo
 - 📫 How to reach me e-mail {rogeriojesus906@gmail.com}
 
